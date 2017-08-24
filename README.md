@@ -7,3 +7,5 @@
      (http://railstutorial.com/)
      
      TEST
+
+TEST REMOTE
