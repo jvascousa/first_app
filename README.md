@@ -12,5 +12,4 @@
 
 ## TEST REMOTE
 
-TEST TEST
 
