@@ -6,11 +6,3 @@
 
      (http://railstutorial.com/)
      
-     TEST
-
-     TEST LOCAL
-
-## TEST REMOTE
-
-
-# HAHAHAHAHAHAHA
